@@ -1,0 +1,27 @@
+01
+>>>for c in "foo":
+02
+>>>    print c
+03
+f
+04
+o
+05
+o
+06
+>>>for c in "1234":
+07
+>>>    c_i = int(c)
+08
+>>>    print c_i + 1
+09
+2
+10
+3
+11
+4
+12
+5
+
+
+a += b is short for a = a + b 
